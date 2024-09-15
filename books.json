@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Leadership 360",
+        "categories": [
+            "selfhelp",
+            "myselfl"
+        ],
+        "price": 100,
+        "quantity": 5,
+        "authors": [
+            {
+                "name": "Socrate",
+                "country": "Italia"
+            },
+            {
+                "name": "Marcus",
+                "country": "HyLap"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Meditations",
+        "categories": [
+            "selfhelp",
+            "myself",
+            "buddhism"
+        ],
+        "price": 100,
+        "quantity": 1,
+        "authors": [
+            10,
+            11
+        ]
+    }
+]
