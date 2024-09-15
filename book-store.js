@@ -93,14 +93,5 @@ const book = {
     quantity: 5,
     authors: [{ name: "Socrate", country: "Italia" }, { name: "Marcus", country: "HyLap" }]
 }
-// const book = {
-//     title: "Leadership",
-//     categories: ["selfhelp"],
-//     price: 100,
-//     quantity: 1,
-//     authors: [{ name: "Socrate", country: "Italia" }, { name: "Marcus", country: "HyLap" }]
-// }
-
-// addBook(book)
 
 updateBook(18, book)
