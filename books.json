@@ -1,36 +1,41 @@
 [
     {
-        "title": "Leadership 360",
+        "id": 3,
+        "title": "Leadership",
         "categories": [
-            "selfhelp",
-            "myselfl"
+            "selfhelp"
         ],
         "price": 100,
-        "quantity": 5,
+        "quantity": 2,
         "authors": [
-            {
-                "name": "Socrate",
-                "country": "Italia"
-            },
-            {
-                "name": "Marcus",
-                "country": "HyLap"
-            }
+            1,
+            2
         ]
     },
     {
-        "id": 13,
-        "title": "Meditations",
+        "id": 8,
+        "title": "Toi Tu Hoc II",
         "categories": [
             "selfhelp",
-            "myself",
-            "buddhism"
+            "leadership"
         ],
-        "price": 100,
-        "quantity": 1,
+        "price": 20,
+        "quantity": 3,
         "authors": [
-            10,
-            11
+            6
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Toi Tu Hoc II",
+        "categories": [
+            "selfhelp",
+            "leadership"
+        ],
+        "price": 20,
+        "quantity": 3,
+        "authors": [
+            6
         ]
     }
 ]
