@@ -6,7 +6,7 @@
             "selfhelp"
         ],
         "price": 100,
-        "quantity": 2,
+        "quantity": 1,
         "authors": [
             1,
             2
@@ -20,7 +20,7 @@
             "leadership"
         ],
         "price": 20,
-        "quantity": 3,
+        "quantity": 1,
         "authors": [
             6
         ]
@@ -33,7 +33,7 @@
             "leadership"
         ],
         "price": 20,
-        "quantity": 3,
+        "quantity": 0,
         "authors": [
             6
         ]
